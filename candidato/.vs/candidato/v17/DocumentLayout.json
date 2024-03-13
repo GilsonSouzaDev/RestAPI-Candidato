@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GilsonSouza\\Desktop\\Temporaria\\Workspace\\.NET\\Candidato\\Back-End\\candidato\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E2D9E23-75D2-48C8-9611-FD62129E701E}|candidato.csproj|c:\\users\\gilsonsouza\\desktop\\temporaria\\workspace\\.net\\candidato\\back-end\\candidato\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E2D9E23-75D2-48C8-9611-FD62129E701E}|candidato.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E2D9E23-75D2-48C8-9611-FD62129E701E}|candidato.csproj|c:\\users\\gilsonsouza\\desktop\\temporaria\\workspace\\.net\\candidato\\back-end\\candidato\\migrations\\20240313025335_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E2D9E23-75D2-48C8-9611-FD62129E701E}|candidato.csproj|solutionrelative:migrations\\20240313025335_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E2D9E23-75D2-48C8-9611-FD62129E701E}|candidato.csproj|c:\\users\\gilsonsouza\\desktop\\temporaria\\workspace\\.net\\candidato\\back-end\\candidato\\controllers\\ifachadacandidato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E2D9E23-75D2-48C8-9611-FD62129E701E}|candidato.csproj|solutionrelative:controllers\\ifachadacandidato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E2D9E23-75D2-48C8-9611-FD62129E701E}|candidato.csproj|c:\\users\\gilsonsouza\\desktop\\temporaria\\workspace\\.net\\candidato\\back-end\\candidato\\controllers\\candidatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E2D9E23-75D2-48C8-9611-FD62129E701E}|candidato.csproj|solutionrelative:controllers\\candidatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E2D9E23-75D2-48C8-9611-FD62129E701E}|candidato.csproj|c:\\users\\gilsonsouza\\desktop\\temporaria\\workspace\\.net\\candidato\\back-end\\candidato\\controllers\\fachadas\\fachadacandidato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E2D9E23-75D2-48C8-9611-FD62129E701E}|candidato.csproj|solutionrelative:controllers\\fachadas\\fachadacandidato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 311,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240313025335_firstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\GilsonSouza\\Desktop\\Temporaria\\Workspace\\.NET\\Candidato\\Back-End\\candidato\\Migrations\\20240313025335_firstMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240313025335_firstMigration.cs",
+              "ToolTip": "C:\\Users\\GilsonSouza\\Desktop\\Temporaria\\Workspace\\.NET\\Candidato\\Back-End\\candidato\\Migrations\\20240313025335_firstMigration.cs",
+              "RelativeToolTip": "Migrations\\20240313025335_firstMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T02:53:36.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GilsonSouza\\Desktop\\Temporaria\\Workspace\\.NET\\Candidato\\Back-End\\candidato\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\GilsonSouza\\Desktop\\Temporaria\\Workspace\\.NET\\Candidato\\Back-End\\candidato\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAAE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T02:49:44.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IFachadaCandidato.cs",
+              "DocumentMoniker": "C:\\Users\\GilsonSouza\\Desktop\\Temporaria\\Workspace\\.NET\\Candidato\\Back-End\\candidato\\Controllers\\IFachadaCandidato.cs",
+              "RelativeDocumentMoniker": "Controllers\\IFachadaCandidato.cs",
+              "ToolTip": "C:\\Users\\GilsonSouza\\Desktop\\Temporaria\\Workspace\\.NET\\Candidato\\Back-End\\candidato\\Controllers\\IFachadaCandidato.cs",
+              "RelativeToolTip": "Controllers\\IFachadaCandidato.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T02:49:41.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CandidatoController.cs",
+              "DocumentMoniker": "C:\\Users\\GilsonSouza\\Desktop\\Temporaria\\Workspace\\.NET\\Candidato\\Back-End\\candidato\\Controllers\\CandidatoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CandidatoController.cs",
+              "ToolTip": "C:\\Users\\GilsonSouza\\Desktop\\Temporaria\\Workspace\\.NET\\Candidato\\Back-End\\candidato\\Controllers\\CandidatoController.cs",
+              "RelativeToolTip": "Controllers\\CandidatoController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T02:49:38.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FachadaCandidato.cs",
+              "DocumentMoniker": "C:\\Users\\GilsonSouza\\Desktop\\Temporaria\\Workspace\\.NET\\Candidato\\Back-End\\candidato\\Controllers\\Fachadas\\FachadaCandidato.cs",
+              "RelativeDocumentMoniker": "Controllers\\Fachadas\\FachadaCandidato.cs",
+              "ToolTip": "C:\\Users\\GilsonSouza\\Desktop\\Temporaria\\Workspace\\.NET\\Candidato\\Back-End\\candidato\\Controllers\\Fachadas\\FachadaCandidato.cs",
+              "RelativeToolTip": "Controllers\\Fachadas\\FachadaCandidato.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T02:49:31.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
